@@ -5,7 +5,7 @@ Small 2 wheel drive robot. It is Arduino based with most of the mechanical and e
 
 Code on-board includes the communication protocol, the encoder management, the speed and position control, LED control, gripper control. The communication with the computer is via Xbee, there is a Python library to control the robot. Finally, there are some Matlab tools to simulate the robot and make it follow a virtual line.
 
-Video of robot controlled via tablet: https://www.youtube.com/watch?time_continue=1&v=qQ2ebGT-qu8
+Video of robot controlled via tablet: https://youtu.be/qQ2ebGT-qu8
 
 ![](/img/right.jpg)
 ![](/img/front_2.jpg)
